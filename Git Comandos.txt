@@ -1,3 +1,5 @@
 git init - cria a pasta oculta git dentro da pasta já pré selecionada
 git status  verifica o status do repositório / pasta
 git add "nome do arquivo.txt" - adiciona o arquivo ao repositório
+git add . - adiciona todos os arquivos que estão no repositório
+git commit -m "commit inicial" cria a primeira versão do git para poder ser colocada online
